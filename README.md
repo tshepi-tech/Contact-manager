@@ -1,10 +1,14 @@
 # Contact manager
 
-https://user-images.githubusercontent.com/95541911/236240668-403de4bd-98e2-448d-ac59-6ac7e5979e84.mov
+
 
 - FastAPI python backend
 - React frontend
 - Chakra UI 
+
+
+https://user-images.githubusercontent.com/95541911/236240952-36cd08d2-080d-4065-a2cc-c00d41bad4cb.mov
+
 
 ## Features
 
