@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/95541911/236240952-36cd08d2-080d-4065-
 
 ## Objective of project for author
 
-as a frontend developer- I  had limited knowledge of backend. Iwanted to challenge myself to build APIs and put them to use with a satck I know (React)
+as a frontend developer- I  had limited knowledge of backend. I wanted to challenge myself to build APIs and put them to use with a stack I know (React)
 
 
 ## What I learnt
